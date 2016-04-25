@@ -1,9 +1,14 @@
-Set,Category of sets and function
-Grp,group  and group homomorphism
-Cat,category and functor
+Set,Category of sets and functions
+Grp,Group  and group homomorphisms
+Cat,Category and functors
 Monads,
-Monoids,
+Monoids,Monoids and monoid homomorphisms
 Hilb,
-Top,
+Top,Topological spaces and continous functions
 Poset,
 Diff,Differentiable manifolds and differentiable functions
+Compl,Chain complexes and chain maps
+Vect,K-vectorial spaces and K-linear functions
+AbGrp,Abelian groups and group homomorphisms
+HtpDiff,Differentiable manifolds and differentiable functions up to smooth homotopy
+HtpTop,Topological spaces and continous functions up to homotopy
